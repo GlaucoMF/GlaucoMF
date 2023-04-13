@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/glaucomorera" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gmorerafortes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/GlaucoMF" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/glauco-morera-fortes-b37b29271?                        lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B2usGyQJLRM6c%2B6cFAiPdUg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-    %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/GlaucoMF/GlaucoMF/blob/output/github-contribution-grid-snake.svg)
 
